@@ -1,0 +1,48 @@
+@import "./calendar-style.scss";
+
+#holidays {
+  width: 100%;
+
+  .calendar-year {
+    mat-card-title {
+      text-align: center;
+    }
+
+    .calendar-month {
+      min-height: 220px;
+      min-width: 200px;
+      margin: 4px;
+      padding: 8px;
+
+      mat-card-title {
+        text-align: center;
+        font-size: medium;
+        background-color: aliceblue;
+      }
+
+      .calendar-day {
+        .weekend {
+          background-color: lightgray;
+        }
+
+        .special-day {
+          border: red solid 1px;
+        }
+
+        .public-holiday {
+          color: red;
+        }
+
+        .subject-change-day {
+          background-color: blue;
+        }
+      }
+    }
+  }
+
+  table {
+    td {
+      text-align: center;
+    }
+  }
+}

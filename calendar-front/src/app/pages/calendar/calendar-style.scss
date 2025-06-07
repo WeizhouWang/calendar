@@ -1,0 +1,7 @@
+@import "../home.component.scss";
+
+@mixin content-style {
+  .contentTitleBar {
+    background-color: $contentTitleBackground;
+  }
+}

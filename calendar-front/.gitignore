@@ -1,0 +1,14 @@
+# compiled output
+.angular
+.nx
+# dependencies
+/node_modules
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+
+# misc
+/.azurite
+testresults
+coverage

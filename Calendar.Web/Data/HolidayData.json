@@ -1,0 +1,740 @@
+﻿[
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": null,
+    "Name": "New Year Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-01-01T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": null,
+    "Name": "Australia Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-01-26T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": null,
+    "Name": "Good Friday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-03-29T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": null,
+    "Name": "East Monday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-04-01T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": null,
+    "Name": "Anzac Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-04-26T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": null,
+    "Name": "Christmas Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-12-25T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": null,
+    "Name": "Boxing Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-12-26T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "ACT",
+    "Name": "Canberra Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-03-11T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "ACT",
+    "Name": "Reconciliation Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-06-03T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "ACT",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-06-10T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "ACT",
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-10-07T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "NT",
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-05-06T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "NT",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-06-10T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "NT",
+    "Name": "Picnic Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-08-05T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "QLD",
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-05-06T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "QLD",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-10-07T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "QLD",
+    "Name": "Christmas Eve",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-12-24T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "NSW",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-06-10T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "NSW",
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-10-07T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "SA",
+    "Name": "Adelaide Cup Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-03-11T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "SA",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-06-10T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "SA",
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-10-07T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "TAS",
+    "Name": "Eight Hour Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-03-11T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "TAS",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-06-10T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "VIC",
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-03-11T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "VIC",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-06-10T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "VIC",
+    "Name": "Friday Before AFL Grand Final",
+    "IsSubjectToChange": true,
+    "Comments": "Subject to AFL schedule",
+    "Date": "2024-09-27T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "VIC",
+    "Name": "Melbourne Cup",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-11-04T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "WA",
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-03-04T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "WA",
+    "Name": "West Australia Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-06-03T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "WA",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-09-30T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "New Year Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-01-01T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "Day After New Year Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-01-02T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "Good Friday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-03-29T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "East Monday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-04-01T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "Anzac Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-04-26T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "Christmas Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-12-25T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "Boxing Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-12-26T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "Waitangi Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-02-01T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-06-03T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2024-10-28T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": null,
+    "Name": "New Year Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-01-01T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": null,
+    "Name": "Australia Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-01-27T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": null,
+    "Name": "Good Friday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-04-18T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": null,
+    "Name": "East Monday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-04-21T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": null,
+    "Name": "Anzac Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-04-28T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": null,
+    "Name": "Christmas Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-12-25T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": null,
+    "Name": "Boxing Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-12-26T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "ACT",
+    "Name": "Canberra Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-03-10T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "ACT",
+    "Name": "Reconciliation Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-06-02T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "ACT",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-06-09T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "ACT",
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-10-06T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "NT",
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-05-05T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "NT",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-06-09T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "NT",
+    "Name": "Picnic Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-08-04T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "QLD",
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-05-05T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "QLD",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-10-06T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "QLD",
+    "Name": "Christmas Eve",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-12-24T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "NSW",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-06-09T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "NSW",
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-10-06T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "SA",
+    "Name": "Adelaide Cup Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-03-10T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "SA",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-06-09T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "SA",
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-10-06T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "TAS",
+    "Name": "Eight Hour Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-03-10T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "TAS",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-06-09T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "VIC",
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-03-10T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "VIC",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-06-09T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "VIC",
+    "Name": "Friday Before AFL Grand Final",
+    "IsSubjectToChange": true,
+    "Comments": "Subject to AFL schedule",
+    "Date": "2025-09-26T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "VIC",
+    "Name": "Melbourne Cup",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-11-03T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "WA",
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-03-03T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "WA",
+    "Name": "West Australia Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-06-02T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "Australia",
+    "State": "WA",
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-09-29T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "New Year Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-01-01T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "Day After New Year Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-01-02T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "Good Friday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-04-18T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "East Monday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-04-21T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "Anzac Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-04-28T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "Christmas Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-12-25T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "Boxing Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-12-26T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "Waitangi Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-02-06T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "King's Birthday",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-06-02T00:00:00"
+  },
+  {
+    "Id": 0,
+    "Country": "New Zealand",
+    "State": null,
+    "Name": "Labor Day",
+    "IsSubjectToChange": false,
+    "Comments": null,
+    "Date": "2025-10-27T00:00:00"
+  }
+]

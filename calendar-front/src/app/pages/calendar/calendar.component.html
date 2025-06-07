@@ -1,0 +1,66 @@
+<div id="holidays" class="page-layout" fxLayout="column">
+  <div class="page-header contentTitleBar" fxLayout="row" fxLayoutAlign="space-between center">
+    <div>
+      <mat-icon color="white">calendar_today</mat-icon>
+    </div>
+  </div>
+  <div class="page-subheader" fxLayout="row" fxLayoutAlign="space-around center">
+    <mat-form-field class="mat-dense">
+      <mat-label>Country</mat-label>
+      <mat-select id="country" [(value)]="country" (selectionChange)="countryChanged()" required>
+        <mat-option *ngFor="let countryItem of countries" [value]="countryItem">
+          <div fxLayout="row" fxLayoutAlign="start center">
+            <div>{{countryItem.countryName}}</div>
+          </div>
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+    <mat-form-field class="mat-dense">
+      <mat-label>State</mat-label>
+      <mat-select id="state" [(value)]="state" (selectionChange)="stateChanged()">
+        <mat-option *ngFor="let stateItem of states" [value]="stateItem">
+          <div fxLayout="row" fxLayoutAlign="start center">
+            <div>{{stateItem.state}}</div>
+          </div>
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+  </div>
+
+  <div class="page-content mat-elevation-z8" fxFlex="80" fxLayout="column">
+    <mat-card class="calendar-year" *ngFor="let year of years" fxLayoutGap="10px">
+      <mat-card-title>{{year}}</mat-card-title>
+      <mat-card-content fxLayout="row wrap" fxLayoutAlign="center start">
+        <div fxFlex="25" *ngFor="let month of monthNames">
+          <mat-card class="calendar-month" style="margin: 4px; padding: 8px;">
+            <mat-card-title style="font-size: medium; background-color: aliceblue;">{{month}}
+            </mat-card-title>
+            <mat-card-content>
+              <table fxFlex>
+                <thead>
+                  <tr>
+                    <th *ngFor="let weekdayName of weekdayNames">{{weekdayName | firstChar}}</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr *ngFor="let weekNumber of weekNumbers">
+                    <td *ngFor="let weekday of weekdayNames">
+                      <div *ngIf="getCalendarDate(year, month, weekNumber, weekday); let calendarDate">
+                        <div *ngIf="calendarDate === null"></div>
+                        <div *ngIf="calendarDate !== null" class="calendar-day"
+                          [matTooltip]="calendarDate.holidayName? calendarDate.holidayName + (calendarDate.comments?'. '+ calendarDate.comments:''):''"
+                          [ngStyle]="{'background-color': calendarDate.isWeekend?'lightgrey':'', 'color': calendarDate.isSubjectToChange?'lime':(calendarDate.isPublicHoliday?'red':'')}">
+                          {{calendarDate.dateInMonth}}
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </mat-card-content>
+          </mat-card>
+        </div>
+      </mat-card-content>
+    </mat-card>
+  </div>
+</div>
