@@ -1,6 +1,6 @@
 # compiled output
 .angular
-.nx
+dist
 # dependencies
 /node_modules
 
